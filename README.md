@@ -1,70 +1,51 @@
-<div align="center">
-  <h1>José Andrés González Gómez</h1>
-  <p><b>Desarrollador de Software | Ciberseguridad | Redes | IA</b></p>
-  <p>
-    <a href="mailto:josegongo2015@gmail.com"><img src="https://cdn.simpleicons.org/gmail" height="28" alt="Email" title="josegongo2015@gmail.com" /></a> &nbsp;&nbsp;
-    <a href="https://github.com/GG-0806"><img src="https://cdn.simpleicons.org/github" height="28" alt="GitHub" title="GitHub" /></a> &nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/googlemaps" height="28" alt="Location" title="Upala, Costa Rica" />
-  </p>
-</div>
+# Hola, soy José Andrés González Gómez 👋
 
-<br>
+## 👨‍💻 Sobre Mí
+Desarrollador de software con formación en Inteligencia Artificial, Redes y Ciberseguridad[span_0](start_span)[span_0](end_span). Cuento con experiencia en la creación de aplicaciones web empresariales y proyectos de escritorio, combinando una sólida lógica computacional con un enfoque en interfaces de usuario y bases de datos[span_1](start_span)[span_1](end_span).
 
-## Perfil Profesional
-
-Desarrollador de software con experiencia en creación de aplicaciones web empresariales y proyectos académicos de escritorio con C# y .NET. Conocimientos sólidos de HTML, CSS y JavaScript, bases de datos relacionales y no relacionales, y Excel avanzado. Formación complementaria en redes y ciberseguridad.
+- 🌍 **Ubicación:** Upala, Alajuela, Costa Rica[span_2](start_span)[span_2](end_span).
+- ✉️ **Contacto:** josegongo2015@gmail.com[span_3](start_span)[span_3](end_span).
 
 ---
 
-## Competencias Técnicas
+## 🛠️ Competencias Técnicas
 
 | Área | Tecnologías y Herramientas |
 | :--- | :--- |
-| **Desarrollo Web** | <img src="https://cdn.simpleicons.org/html5" height="40" alt="HTML5" title="HTML5" />&nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/css3" height="40" alt="CSS3" title="CSS3" />&nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/javascript" height="40" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/flutter" height="40" alt="Flutter" title="Flutter" /> |
-| **Desarrollo de Escritorio** | <img src="https://cdn.simpleicons.org/csharp" height="40" alt="C#" title="C#" />&nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/dotnet" height="40" alt=".NET" title=".NET" />&nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/windows" height="40" alt="WPF" title="WPF (Windows Presentation Foundation)" />&nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/avalonia" height="40" alt="Avalonia UI" title="Avalonia UI" /> |
-| **Bases de Datos** | <img src="https://cdn.simpleicons.org/mysql" height="40" alt="MySQL" title="MySQL" />&nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/mongodb" height="40" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/supabase" height="40" alt="Supabase" title="Supabase" />&nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/microsoftsqlserver" height="40" alt="SQL Server" title="SQL Server" /> |
-| **Lógica y Datos** | <img src="https://cdn.simpleicons.org/python" height="40" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/microsoftexcel" height="40" alt="Excel" title="Microsoft Excel" /> |
-| **Redes y Seguridad** | Fundamentos de Ethernet, IPv4/IPv6, segmentación, Cisco Packet Tracer, identificación de amenazas, controles de acceso. |
-| **Soporte e IA** | Mantenimiento de HW/SW, diagnóstico multiplataforma (Windows/macOS), IA Generativa, IA Agéntica, Prompts. |
+| **Desarrollo Web** | <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" title="HTML5"/> &nbsp; <img src="https://cdn.simpleicons.org/css3/1572B6" height="35" title="CSS3"/> &nbsp; <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="35" title="JavaScript"/> &nbsp; <img src="https://cdn.simpleicons.org/flutter/02569B" height="35" title="Flutter"/>[span_4](start_span)[span_4](end_span)[span_5](start_span)[span_5](end_span) |
+| **Desarrollo de Escritorio** | <img src="https://cdn.simpleicons.org/csharp/239120" height="35" title="C#"/> &nbsp; <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="35" title=".NET"/> &nbsp; <img src="https://cdn.simpleicons.org/windows/0078D6" height="35" title="WPF"/> &nbsp; <img src="https://raw.githubusercontent.com/AvaloniaUI/avalonia-logo/master/avalonia-logo.svg" height="35" title="Avalonia UI"/> <br> *(Interfaces gráficas mediante WPF y Avalonia UI)*[span_6](start_span)[span_6](end_span)[span_7](start_span)[span_7](end_span) |
+| **Bases de Datos** | <img src="https://cdn.simpleicons.org/mysql/4479A1" height="35" title="MySQL"/> &nbsp; <img src="https://cdn.simpleicons.org/mongodb/47A248" height="35" title="MongoDB"/> &nbsp; <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="35" title="Supabase"/> &nbsp; <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="35" title="SQL Server"/>[span_8](start_span)[span_8](end_span)[span_9](start_span)[span_9](end_span) |
+| **Lógica y Datos** | <img src="https://cdn.simpleicons.org/python/3776AB" height="35" title="Python"/> &nbsp; <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="35" title="Excel"/>[span_10](start_span)[span_10](end_span)[span_11](start_span)[span_11](end_span) |
+| **Redes y Seguridad** | Fundamentos de Ethernet, IPv4/IPv6, segmentación, Cisco Packet Tracer, identificación de amenazas, controles de acceso[span_12](start_span)[span_12](end_span). |
+| **Soporte e IA** | Mantenimiento de HW/SW, diagnóstico multiplataforma (Windows/macOS), IA Generativa, IA Agéntica, Prompts[span_13](start_span)[span_13](end_span)[span_14](start_span)[span_14](end_span). |
 
 ---
 
-## Experiencia y Proyectos
+## 🚀 Proyectos Destacados
 
-### 🔄 Proyecto PASANTS (En curso)
-**Pasantía Internacional en Inteligencia Artificial Generativa | INACAP (Santiago, Chile)**
-* Desarrollo colaborativo de un prototipo web y una propuesta de aplicación para estudiantes y docentes, con responsabilidad compartida en todas las áreas del proyecto.
-* **Objetivo:** Apoyar la organización y el seguimiento de pasantías en Costa Rica y Chile (información de pasantía, rutas, confirmación de llegada, ayuda y turismo cercano).
-* **Tecnologías:** Flutter, Supabase, HTML, CSS y JavaScript, con apoyo de ChatGPT, Gemini y Stitch.
+### 🏨 Sitio Web del Hotel Buena Vista (Completado)
+**Responsable de la concepción y desarrollador web | Equipo J4 Devs**[span_15](start_span)[span_15](end_span)
+- Concepción y desarrollo integral de un sitio web empresarial para presentar el hotel, sus habitaciones y servicios[span_16](start_span)[span_16](end_span).
+- **Características:** Consulta interactiva de las características del alojamiento, selección de fechas y acceso a canales de contacto[span_17](start_span)[span_17](end_span).
 
-### ✅ Sitio web del Hotel Buena Vista (Completado)
-**Responsable de la concepción del sitio y desarrollador web | J4 Devs**
-* Concepción de la propuesta y de todas las secciones del sitio, desarrollado en colaboración con otros programadores. Conocimiento integral de su estructura y funcionamiento.
-* Sitio publicado para presentar el hotel, sus habitaciones y servicios, con consulta interactiva de alojamiento, selección de fechas y canales de contacto. Reconocimiento público en créditos.
-* **Enlace:** [hotelbuenavistaupala.com](https://hotelbuenavistaupala.com) | **Tecnologías:** HTML, CSS, JavaScript.
+### 🌐 Proyecto PASANTS (En Curso)
+**Pasantía Internacional en Inteligencia Artificial Generativa | INACAP (Santiago, Chile)**[span_18](start_span)[span_18](end_span)
+- Desarrollo colaborativo de un prototipo web y una propuesta de aplicación para estudiantes y docentes[span_19](start_span)[span_19](end_span).
+- **Objetivo:** Apoyar la organización y el seguimiento de pasantías en Costa Rica y Chile. La propuesta contempla información de pasantía, rutas, confirmación de llegada, ayuda y turismo cercano[span_20](start_span)[span_20](end_span).
 
 ---
 
-## Formación Académica y Complementaria
+## 🎓 Formación Académica y Certificaciones
 
-### En curso
-- **INACAP:** Pasantía Internacional en Inteligencia Artificial Generativa.
-- **Chile Valora:** Proceso de certificación.
+- **Bachillerato en Educación Media** - Ministerio de Educación Pública (MEP)[span_21](start_span)[span_21](end_span).
+- **Certificaciones INA:** Programación de Componentes de Software, Aplicación de la Lógica Computacional, Excel Avanzado, IA Agéntica (Cowork), IA Generativa, Ingeniería del Prompt[span_22](start_span)[span_22](end_span).
+- **Cisco Networking Academy (Vía de Ciberseguridad):** CCNA (Introducción a las Redes), Fundamentos de Python 1, Security and Connectivity Support[span_23](start_span)[span_23](end_span).
+- **Chile Valora:** Proceso de certificación (En curso)[span_24](start_span)[span_24](end_span).
 
-### Completada
-- **Instituto Nacional de Aprendizaje (INA):**
-  - Programación de Componentes de Software | Aplicación de la Lógica Computacional
-  - Operador de TICs | Excel Avanzado | Ética y Valores Aplicados para el Trabajo
-  - IA Agéntica (Cowork) | IA Generativa | Bots o Robots con IA | Ingeniería del Prompt
-- **Cisco Networking Academy:**
-  - Vía de Ciberseguridad (Junior Cybersecurity Analyst Career Path)
-  - CCNA: Introducción a las Redes | Fundamentos de Python 1 | Introducción al Internet de las Cosas | Introducción a la IA Moderna
-  - Security and Connectivity Support | Operating Systems Support | Computer Hardware Basics
-- **CAMCOP:** Gestión de Datos en Excel.
-- **Ministerio de Educación Pública (MEP):** Bachillerato en Educación Media.
+---
 
-<br>
+## 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GG-0806&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GG-0806&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GG-0806" />
+</p>
