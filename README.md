@@ -1,51 +1,138 @@
-# Hola, soy José Andrés González Gómez 👋
+<div align="center">
 
-## 👨‍💻 Sobre Mí
-Desarrollador de software con formación en Inteligencia Artificial, Redes y Ciberseguridad[span_0](start_span)[span_0](end_span). Cuento con experiencia en la creación de aplicaciones web empresariales y proyectos de escritorio, combinando una sólida lógica computacional con un enfoque en interfaces de usuario y bases de datos[span_1](start_span)[span_1](end_span).
+# José Andrés González Gómez
 
-- 🌍 **Ubicación:** Upala, Alajuela, Costa Rica[span_2](start_span)[span_2](end_span).
-- ✉️ **Contacto:** josegongo2015@gmail.com[span_3](start_span)[span_3](end_span).
+### Desarrollador de software
 
----
+Aplicaciones web y de escritorio · Interfaces de usuario · Bases de datos
 
-## 🛠️ Competencias Técnicas
+📍 Upala, Alajuela, Costa Rica
 
-| Área | Tecnologías y Herramientas |
-| :--- | :--- |
-| **Desarrollo Web** | <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" title="HTML5"/> &nbsp; <img src="https://cdn.simpleicons.org/css3/1572B6" height="35" title="CSS3"/> &nbsp; <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="35" title="JavaScript"/> &nbsp; <img src="https://cdn.simpleicons.org/flutter/02569B" height="35" title="Flutter"/>[span_4](start_span)[span_4](end_span)[span_5](start_span)[span_5](end_span) |
-| **Desarrollo de Escritorio** | <img src="https://cdn.simpleicons.org/csharp/239120" height="35" title="C#"/> &nbsp; <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="35" title=".NET"/> &nbsp; <img src="https://cdn.simpleicons.org/windows/0078D6" height="35" title="WPF"/> &nbsp; <img src="https://raw.githubusercontent.com/AvaloniaUI/avalonia-logo/master/avalonia-logo.svg" height="35" title="Avalonia UI"/> <br> *(Interfaces gráficas mediante WPF y Avalonia UI)*[span_6](start_span)[span_6](end_span)[span_7](start_span)[span_7](end_span) |
-| **Bases de Datos** | <img src="https://cdn.simpleicons.org/mysql/4479A1" height="35" title="MySQL"/> &nbsp; <img src="https://cdn.simpleicons.org/mongodb/47A248" height="35" title="MongoDB"/> &nbsp; <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="35" title="Supabase"/> &nbsp; <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="35" title="SQL Server"/>[span_8](start_span)[span_8](end_span)[span_9](start_span)[span_9](end_span) |
-| **Lógica y Datos** | <img src="https://cdn.simpleicons.org/python/3776AB" height="35" title="Python"/> &nbsp; <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="35" title="Excel"/>[span_10](start_span)[span_10](end_span)[span_11](start_span)[span_11](end_span) |
-| **Redes y Seguridad** | Fundamentos de Ethernet, IPv4/IPv6, segmentación, Cisco Packet Tracer, identificación de amenazas, controles de acceso[span_12](start_span)[span_12](end_span). |
-| **Soporte e IA** | Mantenimiento de HW/SW, diagnóstico multiplataforma (Windows/macOS), IA Generativa, IA Agéntica, Prompts[span_13](start_span)[span_13](end_span)[span_14](start_span)[span_14](end_span). |
+[Contacto](mailto:josegongo2015@gmail.com) · [Hotel Buena Vista](https://hotelbuenavistaupala.com/)
+
+</div>
 
 ---
 
-## 🚀 Proyectos Destacados
+## Sobre mí
 
-### 🏨 Sitio Web del Hotel Buena Vista (Completado)
-**Responsable de la concepción y desarrollador web | Equipo J4 Devs**[span_15](start_span)[span_15](end_span)
-- Concepción y desarrollo integral de un sitio web empresarial para presentar el hotel, sus habitaciones y servicios[span_16](start_span)[span_16](end_span).
-- **Características:** Consulta interactiva de las características del alojamiento, selección de fechas y acceso a canales de contacto[span_17](start_span)[span_17](end_span).
+Desarrollo aplicaciones con atención a la lógica, el diseño de interfaces y la organización de los datos. Me interesa crear soluciones claras, funcionales y fáciles de utilizar.
 
-### 🌐 Proyecto PASANTS (En Curso)
-**Pasantía Internacional en Inteligencia Artificial Generativa | INACAP (Santiago, Chile)**[span_18](start_span)[span_18](end_span)
-- Desarrollo colaborativo de un prototipo web y una propuesta de aplicación para estudiantes y docentes[span_19](start_span)[span_19](end_span).
-- **Objetivo:** Apoyar la organización y el seguimiento de pasantías en Costa Rica y Chile. La propuesta contempla información de pasantía, rutas, confirmación de llegada, ayuda y turismo cercano[span_20](start_span)[span_20](end_span).
+Complemento mi formación en desarrollo de software con conocimientos de inteligencia artificial, redes y ciberseguridad. Disfruto convertir una idea en una interfaz y trabajar en equipo para llevarla a un proyecto real.
 
----
+## Proyectos destacados
 
-## 🎓 Formación Académica y Certificaciones
+### 🏨 Hotel Buena Vista
 
-- **Bachillerato en Educación Media** - Ministerio de Educación Pública (MEP)[span_21](start_span)[span_21](end_span).
-- **Certificaciones INA:** Programación de Componentes de Software, Aplicación de la Lógica Computacional, Excel Avanzado, IA Agéntica (Cowork), IA Generativa, Ingeniería del Prompt[span_22](start_span)[span_22](end_span).
-- **Cisco Networking Academy (Vía de Ciberseguridad):** CCNA (Introducción a las Redes), Fundamentos de Python 1, Security and Connectivity Support[span_23](start_span)[span_23](end_span).
-- **Chile Valora:** Proceso de certificación (En curso)[span_24](start_span)[span_24](end_span).
+**Sitio web empresarial · Completado · Equipo J4 Devs**
 
----
+Participé como responsable de la concepción y desarrollador web de un sitio para presentar el hotel, sus habitaciones y servicios.
 
-## 📊 Estadísticas de GitHub
+- Presentación del alojamiento y consulta de las características de sus habitaciones.
+- Selección de fechas para realizar consultas de disponibilidad.
+- Acceso a los canales de contacto del hotel.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GG-0806&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GG-0806" />
+[**Visitar el sitio →**](https://hotelbuenavistaupala.com/)
+
+### 🌎 PASANTS
+
+**Prototipo en desarrollo · Pasantía internacional en IA generativa**  
+**INACAP · Santiago, Chile**
+
+Desarrollo colaborativo de un prototipo web y una propuesta de aplicación para apoyar a estudiantes y docentes en la organización y el seguimiento de pasantías.
+
+La propuesta contempla información de la pasantía, rutas, confirmación de llegada, opciones de ayuda y turismo cercano, con un contexto inicial de Costa Rica y Chile.
+
+## Tecnologías
+
+### Aplicaciones de escritorio
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/csharp/csharp-original.svg" width="38" height="38" alt="C#" title="C#" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/dotnetcore/dotnetcore-original.svg" width="38" height="38" alt=".NET" title=".NET" />
 </p>
+
+**C# · .NET · WPF · XAML · Avalonia UI**
+
+Desarrollo de aplicaciones de escritorio e interfaces gráficas.
+
+### Desarrollo web
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" width="38" height="38" alt="HTML5" title="HTML5" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" width="38" height="38" alt="CSS3" title="CSS3" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript" title="JavaScript" />
+</p>
+
+**HTML5 · CSS3 · JavaScript**
+
+### Desarrollo multiplataforma
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/flutter/flutter-original.svg" width="38" height="38" alt="Flutter" title="Flutter" />
+</p>
+
+**Flutter**
+
+### Bases de datos y servicios de datos
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="38" height="38" alt="SQL Server" title="SQL Server" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" width="38" height="38" alt="MySQL" title="MySQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mongodb/mongodb-original.svg" width="38" height="38" alt="MongoDB" title="MongoDB" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/supabase/supabase-original.svg" width="38" height="38" alt="Supabase" title="Supabase" />
+</p>
+
+**SQL Server · MySQL · MongoDB · Supabase**
+
+### Lógica y análisis de datos
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="38" height="38" alt="Python" title="Python" />
+</p>
+
+**Python · Excel avanzado**
+
+Organización, procesamiento y análisis de información.
+
+## Conocimientos complementarios
+
+| Área | Enfoque |
+| :--- | :--- |
+| **Inteligencia artificial** | IA generativa, IA agéntica y diseño de prompts. |
+| **Redes** | Ethernet, IPv4/IPv6, segmentación y Cisco Packet Tracer. |
+| **Ciberseguridad** | Identificación de amenazas y controles de acceso. |
+| **Soporte técnico** | Mantenimiento de hardware y software; diagnóstico en Windows y macOS. |
+
+## Formación
+
+**Instituto Nacional de Aprendizaje · INA**
+
+- Programación de Componentes de Software.
+- Aplicación de la Lógica Computacional.
+- Excel Avanzado.
+- IA Agéntica (Cowork).
+- IA Generativa.
+- Ingeniería del Prompt.
+
+**Cisco Networking Academy**
+
+- CCNA: Introducción a las Redes.
+- Fundamentos de Python 1.
+- Security and Connectivity Support.
+
+**ChileValora**  
+Proceso de certificación en curso.
+
+**Ministerio de Educación Pública · Costa Rica**  
+Bachillerato en Educación Media.
+
+---
+
+<div align="center">
+
+**Conversemos sobre software, interfaces e inteligencia artificial.**
+
+[**josegongo2015@gmail.com**](mailto:josegongo2015@gmail.com)
+
+</div>
