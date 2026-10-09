@@ -20,10 +20,10 @@ Desarrollador de software con experiencia en creación de aplicaciones web empre
 
 | Área | Tecnologías y Herramientas |
 | :--- | :--- |
-| **Desarrollo Web** | <img src="https://skillicons.dev/icons?i=html,css,js,flutter" alt="Web Technologies" align="middle" /> |
-| **Desarrollo de Escritorio** | <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="Desktop Technologies" align="middle" /> <br>*(Interfaces gráficas mediante WPF y Avalonia UI)* |
-| **Bases de Datos** | <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" alt="Databases" align="middle" /> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" align="middle" alt="SQL Server" /> |
-| **Lógica y Datos** | <img src="https://skillicons.dev/icons?i=python" alt="Python" align="middle" /> <img src="https://img.shields.io/badge/Excel_Avanzado-217346?style=flat&logo=microsoft-excel&logoColor=white" align="middle" alt="Excel" /> |
+| **Desarrollo Web** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" align="middle" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" align="middle" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" align="middle" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" align="middle" /> |
+| **Desarrollo de Escritorio** | <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" align="middle" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" align="middle" /> <br>*(Interfaces gráficas mediante WPF y Avalonia UI)* |
+| **Bases de Datos** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" align="middle" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" align="middle" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" align="middle" /> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" align="middle" alt="SQL Server" /> |
+| **Lógica y Datos** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" align="middle" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" align="middle" alt="Excel" /> |
 | **Redes y Seguridad** | Fundamentos de Ethernet, IPv4/IPv6, segmentación, Cisco Packet Tracer, identificación de amenazas, controles de acceso. |
 | **Soporte e IA** | Mantenimiento de HW/SW, diagnóstico multiplataforma (Windows/macOS), IA Generativa, IA Agéntica, Prompts. |
 
@@ -66,5 +66,5 @@ Desarrollador de software con experiencia en creación de aplicaciones web empre
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GG-0806&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GG-0806&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Stats" />
 </div>
