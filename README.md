@@ -2,9 +2,9 @@
   <h1>José Andrés González Gómez</h1>
   <p><b>Desarrollador de Software | Ciberseguridad | Redes | IA</b></p>
   <p>
-    <a href="mailto:josegongo2015@gmail.com"><img src="https://img.shields.io/badge/josegongo2015@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/GG-0806"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <img src="https://img.shields.io/badge/Upala,%20Costa%20Rica-4CAF50?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+    <a href="mailto:josegongo2015@gmail.com"><img src="https://cdn.simpleicons.org/gmail" height="28" alt="Email" title="josegongo2015@gmail.com" /></a> &nbsp;&nbsp;
+    <a href="https://github.com/GG-0806"><img src="https://cdn.simpleicons.org/github" height="28" alt="GitHub" title="GitHub" /></a> &nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/googlemaps" height="28" alt="Location" title="Upala, Costa Rica" />
   </p>
 </div>
 
@@ -20,10 +20,10 @@ Desarrollador de software con experiencia en creación de aplicaciones web empre
 
 | Área | Tecnologías y Herramientas |
 | :--- | :--- |
-| **Desarrollo Web** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" align="middle" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" align="middle" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" align="middle" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" align="middle" /> |
-| **Desarrollo de Escritorio** | <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" align="middle" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" align="middle" /> <br>*(Interfaces gráficas mediante WPF y Avalonia UI)* |
-| **Bases de Datos** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" align="middle" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" align="middle" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" align="middle" /> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" align="middle" alt="SQL Server" /> |
-| **Lógica y Datos** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" align="middle" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" align="middle" alt="Excel" /> |
+| **Desarrollo Web** | <img src="https://cdn.simpleicons.org/html5" height="40" alt="HTML5" title="HTML5" />&nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/css3" height="40" alt="CSS3" title="CSS3" />&nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/javascript" height="40" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/flutter" height="40" alt="Flutter" title="Flutter" /> |
+| **Desarrollo de Escritorio** | <img src="https://cdn.simpleicons.org/csharp" height="40" alt="C#" title="C#" />&nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/dotnet" height="40" alt=".NET" title=".NET" />&nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/windows" height="40" alt="WPF" title="WPF (Windows Presentation Foundation)" />&nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/avalonia" height="40" alt="Avalonia UI" title="Avalonia UI" /> |
+| **Bases de Datos** | <img src="https://cdn.simpleicons.org/mysql" height="40" alt="MySQL" title="MySQL" />&nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/mongodb" height="40" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/supabase" height="40" alt="Supabase" title="Supabase" />&nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/microsoftsqlserver" height="40" alt="SQL Server" title="SQL Server" /> |
+| **Lógica y Datos** | <img src="https://cdn.simpleicons.org/python" height="40" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/microsoftexcel" height="40" alt="Excel" title="Microsoft Excel" /> |
 | **Redes y Seguridad** | Fundamentos de Ethernet, IPv4/IPv6, segmentación, Cisco Packet Tracer, identificación de amenazas, controles de acceso. |
 | **Soporte e IA** | Mantenimiento de HW/SW, diagnóstico multiplataforma (Windows/macOS), IA Generativa, IA Agéntica, Prompts. |
 
